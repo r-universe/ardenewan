@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "APCanalysis"]
 	path = APCanalysis
 	url = https://github.com/cran/APCanalysis
-	shallow = true
-	registered = true
